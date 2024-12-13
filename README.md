@@ -31,4 +31,4 @@ run_synthesis
 
 run_floorplan
 
-eog designs/picorv32
+eog designs/picorv32a/runs/13-12_07-00/results/floorplan/picorva32a.floorplan.def.png
