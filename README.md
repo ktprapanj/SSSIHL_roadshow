@@ -29,3 +29,4 @@ prep -design picorv32a
 
 run_synthesis
 
+run_floorplan
