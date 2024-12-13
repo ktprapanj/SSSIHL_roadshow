@@ -17,3 +17,6 @@ int main(){
 riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o hello.o hello.c
 
 riscv64-unknown-elf-objdump -d hello.o
+
+# Change directory to openlane flow directory
+cd Desktop/work/tools/openlane_working_dir/openlane
