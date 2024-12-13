@@ -40,3 +40,5 @@ eog designs/picorv32a/runs/13-12_07-00/results/floorplan/picorva32a.floorplan.de
 run_placement
 
 eog designs/picorv32a/runs/13-12_07-00/results/placement/picorva32a.placement.def.png
+
+run_cts
