@@ -21,6 +21,8 @@ riscv64-unknown-elf-objdump -d hello.o
 # Change directory to openlane flow directory
 cd Desktop/work/tools/openlane_working_dir/openlane
 
+docker
+
 ./flow.tcl -interactive
 
 package require openlane 0.9
